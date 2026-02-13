@@ -2,7 +2,7 @@
 
 A simple Solidity smart contract for managing student attendance records on the blockchain, deployed on CoreDAO Testnet2.
 
-## 📋 Contract Details
+## Contract Details
 
 Here is the contract details for the deployed contract:
 
